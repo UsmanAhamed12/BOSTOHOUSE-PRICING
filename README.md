@@ -1,4 +1,4 @@
-### Bosto House Price Prediction
+### Boston House Price Prediction
 
 ### Software And Tools Requirements
 
